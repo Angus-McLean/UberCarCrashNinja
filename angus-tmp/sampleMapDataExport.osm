@@ -1,0 +1,2020 @@
+<osm version="0.6">
+ <bounds minlat="40.7214500" minlon="-74.0040400" maxlat="40.7228900" maxlon="-74.0017000"/>
+ <node id="42427324" visible="true" version="5" changeset="3381786" timestamp="2009-12-15T18:21:15Z" user="NE2" uid="207745" lat="40.7197860" lon="-73.9985240">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42428436" visible="true" version="7" changeset="47168376" timestamp="2017-03-26T06:57:39Z" user="Wolowitz" uid="670376" lat="40.7208634" lon="-74.0006449">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="sloped_curb" v="yes"/>
+ </node>
+ <node id="42430126" visible="true" version="6" changeset="38738902" timestamp="2016-04-20T20:52:52Z" user="wambag" uid="326503" lat="40.7206388" lon="-74.0052198">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42431614" visible="true" version="6" changeset="38804439" timestamp="2016-04-23T04:17:59Z" user="wambag" uid="326503" lat="40.7155224" lon="-74.0092214">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42432142" visible="true" version="4" changeset="3381786" timestamp="2009-12-15T18:20:53Z" user="NE2" uid="207745" lat="40.7233080" lon="-74.0029820">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42432148" visible="true" version="4" changeset="3381786" timestamp="2009-12-15T18:20:53Z" user="NE2" uid="207745" lat="40.7229300" lon="-74.0021740">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42432152" visible="true" version="4" changeset="3381786" timestamp="2009-12-15T18:20:53Z" user="NE2" uid="207745" lat="40.7225560" lon="-74.0014030">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42433573" visible="true" version="6" changeset="38825153" timestamp="2016-04-24T03:54:25Z" user="wambag" uid="326503" lat="40.7208687" lon="-74.0039184">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42433574" visible="true" version="4" changeset="3381786" timestamp="2009-12-15T18:21:15Z" user="NE2" uid="207745" lat="40.7219950" lon="-74.0029710">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42433577" visible="true" version="3" changeset="3381980" timestamp="2009-12-15T19:29:51Z" user="NE2" uid="207745" lat="40.7241660" lon="-74.0011270">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42433578" visible="true" version="2" changeset="2221591" timestamp="2009-08-21T10:58:09Z" user="woodpeck_fixbot" uid="147510" lat="40.7253820" lon="-74.0001010"/>
+ <node id="42433581" visible="true" version="5" changeset="41046025" timestamp="2016-07-26T19:30:31Z" user="ALE!" uid="40023" lat="40.7266195" lon="-73.9990608"/>
+ <node id="42434855" visible="true" version="4" changeset="38738902" timestamp="2016-04-20T21:19:44Z" user="wambag" uid="326503" lat="40.7200755" lon="-74.0056591"/>
+ <node id="42436763" visible="true" version="4" changeset="34666433" timestamp="2015-10-16T00:23:38Z" user="SH17" uid="2591427" lat="40.7227417" lon="-74.0044354"/>
+ <node id="42439551" visible="true" version="6" changeset="38738902" timestamp="2016-04-20T21:19:45Z" user="wambag" uid="326503" lat="40.7230395" lon="-74.0052482"/>
+ <node id="42440823" visible="true" version="6" changeset="38825153" timestamp="2016-04-24T03:54:25Z" user="wambag" uid="326503" lat="40.7203895" lon="-74.0032496">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42440829" visible="true" version="6" changeset="38825153" timestamp="2016-04-24T03:54:25Z" user="wambag" uid="326503" lat="40.7213697" lon="-74.0046175">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42442273" visible="true" version="3" changeset="3381980" timestamp="2009-12-15T19:29:51Z" user="NE2" uid="207745" lat="40.7237950" lon="-74.0003670">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42442276" visible="true" version="3" changeset="3381980" timestamp="2009-12-15T19:29:50Z" user="NE2" uid="207745" lat="40.7245520" lon="-74.0019330">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42445489" visible="true" version="4" changeset="3381786" timestamp="2009-12-15T18:21:15Z" user="NE2" uid="207745" lat="40.7200440" lon="-73.9990610">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42445700" visible="true" version="5" changeset="38738902" timestamp="2016-04-20T21:19:45Z" user="wambag" uid="326503" lat="40.7196963" lon="-74.0059515"/>
+ <node id="42448554" visible="true" version="6" changeset="41046025" timestamp="2016-07-26T19:30:31Z" user="ALE!" uid="40023" lat="40.7262407" lon="-73.9983031">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42449570" visible="true" version="4" changeset="3381786" timestamp="2009-12-15T18:21:15Z" user="NE2" uid="207745" lat="40.7212520" lon="-74.0014470">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42452015" visible="true" version="7" changeset="38735024" timestamp="2016-04-20T18:02:08Z" user="wambag" uid="326503" lat="40.7231321" lon="-74.0062154">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42452026" visible="true" version="4" changeset="3381786" timestamp="2009-12-15T18:21:03Z" user="NE2" uid="207745" lat="40.7223840" lon="-74.0037680">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42452040" visible="true" version="4" changeset="3381786" timestamp="2009-12-15T18:21:15Z" user="NE2" uid="207745" lat="40.7216210" lon="-74.0022080">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42452048" visible="true" version="4" changeset="19078854" timestamp="2013-11-23T18:48:56Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7204322" lon="-73.9998680"/>
+ <node id="42453059" visible="true" version="4" changeset="38738902" timestamp="2016-04-20T21:19:44Z" user="wambag" uid="326503" lat="40.7188732" lon="-74.0065862">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42454423" visible="true" version="3" changeset="3381980" timestamp="2009-12-15T19:30:03Z" user="NE2" uid="207745" lat="40.7257730" lon="-74.0008980">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42456197" visible="true" version="3" changeset="3381980" timestamp="2009-12-15T19:30:03Z" user="NE2" uid="207745" lat="40.7250080" lon="-73.9993450">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="419360600" visible="true" version="1" changeset="1500261" timestamp="2009-06-12T21:51:39Z" user="cityracks" uid="134892" lat="40.7227970" lon="-74.0035247">
+  <tag k="amenity" v="bicycle_parking"/>
+  <tag k="capacity" v="2"/>
+  <tag k="cityracks.housenum" v="350"/>
+  <tag k="cityracks.installed" v="7/15/2001"/>
+  <tag k="cityracks.large" v="0"/>
+  <tag k="cityracks.rackid" v="2418"/>
+  <tag k="cityracks.small" v="1"/>
+  <tag k="cityracks.street" v="W Broadway"/>
+ </node>
+ <node id="419363416" visible="true" version="1" changeset="1500261" timestamp="2009-06-12T21:54:56Z" user="cityracks" uid="134892" lat="40.7227009" lon="-74.0033912">
+  <tag k="amenity" v="bicycle_parking"/>
+  <tag k="capacity" v="2"/>
+  <tag k="cityracks.housenum" v="347"/>
+  <tag k="cityracks.installed" v="7/15/2001"/>
+  <tag k="cityracks.large" v="0"/>
+  <tag k="cityracks.rackid" v="2417"/>
+  <tag k="cityracks.small" v="1"/>
+  <tag k="cityracks.street" v="W Broadway"/>
+ </node>
+ <node id="419364437" visible="true" version="1" changeset="1500261" timestamp="2009-06-12T21:56:38Z" user="cityracks" uid="134892" lat="40.7222563" lon="-74.0037700">
+  <tag k="amenity" v="bicycle_parking"/>
+  <tag k="capacity" v="2"/>
+  <tag k="cityracks.housenum" v="331"/>
+  <tag k="cityracks.large" v="0"/>
+  <tag k="cityracks.rackid" v="2416"/>
+  <tag k="cityracks.small" v="1"/>
+  <tag k="cityracks.street" v="W Broadway"/>
+ </node>
+ <node id="419364739" visible="true" version="1" changeset="1500261" timestamp="2009-06-12T21:57:11Z" user="cityracks" uid="134892" lat="40.7217376" lon="-74.0020022">
+  <tag k="amenity" v="bicycle_parking"/>
+  <tag k="capacity" v="2"/>
+  <tag k="cityracks.housenum" v="42"/>
+  <tag k="cityracks.large" v="0"/>
+  <tag k="cityracks.rackid" v="2447"/>
+  <tag k="cityracks.small" v="1"/>
+  <tag k="cityracks.street" v="Greene St"/>
+ </node>
+ <node id="1692433928" visible="true" version="1" changeset="11110749" timestamp="2012-03-26T21:04:24Z" user="Tronikon" uid="123364" lat="40.7280695" lon="-73.9989542">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1919595916" visible="true" version="1" changeset="13150866" timestamp="2012-09-18T02:14:32Z" user="RoadGeek_MD99" uid="475877" lat="40.7268923" lon="-73.9999617">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1919595917" visible="true" version="1" changeset="13150866" timestamp="2012-09-18T02:14:32Z" user="RoadGeek_MD99" uid="475877" lat="40.7261225" lon="-73.9984031">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1919595926" visible="true" version="1" changeset="13150866" timestamp="2012-09-18T02:14:33Z" user="RoadGeek_MD99" uid="475877" lat="40.7264919" lon="-73.9991679"/>
+ <node id="2151385472" visible="true" version="1" changeset="15001899" timestamp="2013-02-12T03:43:29Z" user="Derick Rethans" uid="37137" lat="40.7209574" lon="-74.0038422">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="2151385487" visible="true" version="2" changeset="49177246" timestamp="2017-06-01T21:08:52Z" user="ALE!" uid="40023" lat="40.7212566" lon="-74.0047117">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="2151385500" visible="true" version="1" changeset="15001899" timestamp="2013-02-12T03:43:30Z" user="Derick Rethans" uid="37137" lat="40.7214627" lon="-74.0045435">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="2155551105" visible="true" version="3" changeset="38738902" timestamp="2016-04-20T21:19:45Z" user="wambag" uid="326503" lat="40.7200185" lon="-74.0057031">
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="2547223740" visible="true" version="1" changeset="19074725" timestamp="2013-11-23T16:19:00Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228638" lon="-74.0018007">
+  <tag k="addr:housenumber" v="476"/>
+  <tag k="addr:postcode" v="10012"/>
+  <tag k="addr:street" v="Broome Street"/>
+ </node>
+ <node id="2547223964" visible="true" version="1" changeset="19074725" timestamp="2013-11-23T16:19:04Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227487" lon="-74.0015842"/>
+ <node id="2547223970" visible="true" version="1" changeset="19074725" timestamp="2013-11-23T16:19:05Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228207" lon="-74.0017313"/>
+ <node id="2547223974" visible="true" version="1" changeset="19074725" timestamp="2013-11-23T16:19:05Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228925" lon="-74.0018782"/>
+ <node id="2547223982" visible="true" version="1" changeset="19074725" timestamp="2013-11-23T16:19:05Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7229390" lon="-74.0014232"/>
+ <node id="2547223988" visible="true" version="1" changeset="19074725" timestamp="2013-11-23T16:19:05Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7229698" lon="-74.0013973"/>
+ <node id="2547223994" visible="true" version="1" changeset="19074725" timestamp="2013-11-23T16:19:05Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7230418" lon="-74.0015444"/>
+ <node id="2547224009" visible="true" version="1" changeset="19074725" timestamp="2013-11-23T16:19:05Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7230558" lon="-74.0015325"/>
+ <node id="2547224015" visible="true" version="1" changeset="19074725" timestamp="2013-11-23T16:19:05Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7230775" lon="-74.0017218"/>
+ <node id="2547224019" visible="true" version="1" changeset="19074725" timestamp="2013-11-23T16:19:05Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7230919" lon="-74.0016062"/>
+ <node id="2547224031" visible="true" version="1" changeset="19074725" timestamp="2013-11-23T16:19:06Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7231277" lon="-74.0016793"/>
+ <node id="2547224035" visible="true" version="1" changeset="19074725" timestamp="2013-11-23T16:19:06Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7231476" lon="-74.0015592"/>
+ <node id="2547224036" visible="true" version="1" changeset="19074725" timestamp="2013-11-23T16:19:06Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7231653" lon="-74.0017561"/>
+ <node id="2547224046" visible="true" version="1" changeset="19074725" timestamp="2013-11-23T16:19:06Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7232021" lon="-74.0018315"/>
+ <node id="2547224065" visible="true" version="1" changeset="19074725" timestamp="2013-11-23T16:19:06Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7232578" lon="-74.0017844"/>
+ <node id="2555120355" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:28:48Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7217532" lon="-74.0019739">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Greene Street"/>
+ </node>
+ <node id="2555120475" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:28:51Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7215102" lon="-74.0021593">
+  <tag k="addr:housenumber" v="89"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+ </node>
+ <node id="2555120478" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:28:51Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7215965" lon="-74.0019644">
+  <tag k="addr:housenumber" v="94"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+ </node>
+ <node id="2555120482" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:28:51Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7215017" lon="-74.0017752">
+  <tag k="addr:housenumber" v="96"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+ </node>
+ <node id="2555120484" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:28:51Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7215011" lon="-74.0017740">
+  <tag k="addr:housenumber" v="96A"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+ </node>
+ <node id="2555120926" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:28:59Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7212724" lon="-74.0021441"/>
+ <node id="2555120934" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:28:59Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7213003" lon="-74.0022010"/>
+ <node id="2555120935" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:28:59Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7213105" lon="-74.0021924"/>
+ <node id="2555120939" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:28:59Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7213322" lon="-74.0022658"/>
+ <node id="2555120941" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:28:59Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7213423" lon="-74.0022572"/>
+ <node id="2555120946" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:28:59Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7213629" lon="-74.0023283"/>
+ <node id="2555120950" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:28:59Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7213807" lon="-74.0015525"/>
+ <node id="2555120957" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:00Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7214413" lon="-74.0020007"/>
+ <node id="2555120962" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:00Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7214568" lon="-74.0017078"/>
+ <node id="2555120965" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:00Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7214692" lon="-74.0020576"/>
+ <node id="2555120968" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:00Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7214971" lon="-74.0014539"/>
+ <node id="2555120969" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:00Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7215010" lon="-74.0021224"/>
+ <node id="2555120978" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:00Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7215291" lon="-74.0018553"/>
+ <node id="2555120979" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:00Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7215318" lon="-74.0021849"/>
+ <node id="2555120981" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:00Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7215345" lon="-74.0015302"/>
+ <node id="2555120986" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:00Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7215892" lon="-74.0014839"/>
+ <node id="2555120989" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:00Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7216124" lon="-74.0015761"/>
+ <node id="2555120991" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:00Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7216279" lon="-74.0015630"/>
+ <node id="2555120994" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:00Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7216395" lon="-74.0020807"/>
+ <node id="2555120998" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:00Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7216485" lon="-74.0016497"/>
+ <node id="2555121007" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:00Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7217102" lon="-74.0017019"/>
+ <node id="2555121008" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:01Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7217148" lon="-74.0015936"/>
+ <node id="2555121011" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:01Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7217286" lon="-74.0017395"/>
+ <node id="2555121013" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:01Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7217317" lon="-74.0015939"/>
+ <node id="2555121015" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:01Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7217694" lon="-74.0017050"/>
+ <node id="2555121021" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:01Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7217812" lon="-74.0016950"/>
+ <node id="2555121025" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:01Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7218484" lon="-74.0014951"/>
+ <node id="2555121031" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:01Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7218733" lon="-74.0018828"/>
+ <node id="2555121039" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:01Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7219867" lon="-74.0013780"/>
+ <node id="2555121041" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:01Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7219900" lon="-74.0017840"/>
+ <node id="2555121053" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:01Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7220169" lon="-74.0014395"/>
+ <node id="2555121063" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:02Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7221283" lon="-74.0016669"/>
+ <node id="2562442578" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:36Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7221642" lon="-74.0029496">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Wooster Street"/>
+ </node>
+ <node id="2562442581" visible="true" version="3" changeset="22001873" timestamp="2014-04-28T13:32:59Z" user="emacsen_dwg" uid="1782960" lat="40.7214999" lon="-74.0024348">
+  <tag k="addr:housenumber" v="31 1/2"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Greene Street"/>
+ </node>
+ <node id="2562442582" visible="true" version="3" changeset="22001873" timestamp="2014-04-28T13:32:59Z" user="emacsen_dwg" uid="1782960" lat="40.7217903" lon="-74.0021816">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Greene Street"/>
+ </node>
+ <node id="2562442584" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:36Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7221881" lon="-74.0037569">
+  <tag k="addr:housenumber" v="331"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="West Broadway"/>
+ </node>
+ <node id="2562442585" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:36Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7224085" lon="-74.0035719">
+  <tag k="addr:housenumber" v="337"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="West Broadway"/>
+ </node>
+ <node id="2562442587" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:36Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7224857" lon="-74.0035062">
+  <tag k="addr:housenumber" v="339"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="West Broadway"/>
+ </node>
+ <node id="2562442597" visible="true" version="2" changeset="45271282" timestamp="2017-01-18T14:22:30Z" user="KVBIAK" uid="3866698" lat="40.7219268" lon="-74.0020843">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Greene Street"/>
+  <tag k="name" v="Kartell"/>
+  <tag k="shop" v="department_store"/>
+ </node>
+ <node id="2562442601" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:37Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7219523" lon="-74.0020621">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Greene Street"/>
+ </node>
+ <node id="2562442604" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:37Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7220237" lon="-74.0019998">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Greene Street"/>
+ </node>
+ <node id="2562442605" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:37Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7220424" lon="-74.0019834">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Greene Street"/>
+ </node>
+ <node id="2562442608" visible="true" version="3" changeset="22001873" timestamp="2014-04-28T13:32:57Z" user="emacsen_dwg" uid="1782960" lat="40.7223970" lon="-74.0039905">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+ </node>
+ <node id="2562442611" visible="true" version="3" changeset="22001873" timestamp="2014-04-28T13:32:57Z" user="emacsen_dwg" uid="1782960" lat="40.7225276" lon="-74.0038615">
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+ </node>
+ <node id="2562442613" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:38Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222491" lon="-74.0036882">
+  <tag k="addr:housenumber" v="53"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+ </node>
+ <node id="2562442616" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:38Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228700" lon="-74.0023481">
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Wooster Street"/>
+ </node>
+ <node id="2562442618" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:38Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7221315" lon="-74.0030695">
+  <tag k="addr:housenumber" v="70"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+ </node>
+ <node id="2562442619" visible="true" version="3" changeset="22001873" timestamp="2014-04-28T13:32:56Z" user="emacsen_dwg" uid="1782960" lat="40.7218868" lon="-74.0029282">
+  <tag k="addr:housenumber" v="71"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+ </node>
+ <node id="2562442656" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:39Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7211898" lon="-74.0037543"/>
+ <node id="2562442657" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:39Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7211992" lon="-74.0031085"/>
+ <node id="2562442658" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:39Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7212005" lon="-74.0031110"/>
+ <node id="2562442659" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:39Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7212118" lon="-74.0038004"/>
+ <node id="2562442666" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:39Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7212785" lon="-74.0026088"/>
+ <node id="2562442668" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:39Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7212854" lon="-74.0039549"/>
+ <node id="2562442672" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:39Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7213033" lon="-74.0030202"/>
+ <node id="2562442673" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:39Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7213219" lon="-74.0025720"/>
+ <node id="2562442676" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7213371" lon="-74.0036330"/>
+ <node id="2562442678" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7213385" lon="-74.0036340"/>
+ <node id="2562442679" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7213500" lon="-74.0034152"/>
+ <node id="2562442684" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7213774" lon="-74.0038890"/>
+ <node id="2562442685" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7213805" lon="-74.0025222"/>
+ <node id="2562442686" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7213902" lon="-74.0039512"/>
+ <node id="2562442688" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7214051" lon="-74.0039385"/>
+ <node id="2562442690" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7214120" lon="-74.0028804"/>
+ <node id="2562442691" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7214132" lon="-74.0028830"/>
+ <node id="2562442692" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7214167" lon="-74.0029239"/>
+ <node id="2562442694" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7214234" lon="-74.0029375"/>
+ <node id="2562442695" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7214240" lon="-74.0040197"/>
+ <node id="2562442698" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7214355" lon="-74.0040219"/>
+ <node id="2562442699" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7214456" lon="-74.0038537"/>
+ <node id="2562442701" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7214540" lon="-74.0033269"/>
+ <node id="2562442702" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7214551" lon="-74.0026739"/>
+ <node id="2562442703" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7214566" lon="-74.0028461"/>
+ <node id="2562442705" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7214617" lon="-74.0028564"/>
+ <node id="2562442707" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7214696" lon="-74.0028696"/>
+ <node id="2562442708" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7214795" lon="-74.0028898"/>
+ <node id="2562442709" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7214902" lon="-74.0027454"/>
+ <node id="2562442711" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7214964" lon="-74.0039580"/>
+ <node id="2562442712" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7215123" lon="-74.0041824"/>
+ <node id="2562442713" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7215203" lon="-74.0028067"/>
+ <node id="2562442714" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7215272" lon="-74.0028207"/>
+ <node id="2562442715" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7215409" lon="-74.0039348"/>
+ <node id="2562442717" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7215553" lon="-74.0028779"/>
+ <node id="2562442718" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7215670" lon="-74.0042968"/>
+ <node id="2562442719" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7215674" lon="-74.0032306"/>
+ <node id="2562442720" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:40Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7215701" lon="-74.0039959"/>
+ <node id="2562442722" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7215891" lon="-74.0029465"/>
+ <node id="2562442723" visible="true" version="3" changeset="22001873" timestamp="2014-04-28T13:27:56Z" user="emacsen_dwg" uid="1782960" lat="40.7216042" lon="-74.0023323"/>
+ <node id="2562442724" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7216236" lon="-74.0031829"/>
+ <node id="2562442726" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7216351" lon="-74.0029074"/>
+ <node id="2562442727" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7216695" lon="-74.0029774"/>
+ <node id="2562442728" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7216724" lon="-74.0042097"/>
+ <node id="2562442730" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7216788" lon="-74.0024840"/>
+ <node id="2562442731" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7216799" lon="-74.0033442"/>
+ <node id="2562442732" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7216812" lon="-74.0033469"/>
+ <node id="2562442733" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7216914" lon="-74.0036444"/>
+ <node id="2562442735" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7217139" lon="-74.0025555"/>
+ <node id="2562442736" visible="true" version="3" changeset="22001873" timestamp="2014-04-28T13:27:55Z" user="emacsen_dwg" uid="1782960" lat="40.7217171" lon="-74.0022386"/>
+ <node id="2562442737" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7217273" lon="-74.0030949"/>
+ <node id="2562442740" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7217352" lon="-74.0032979"/>
+ <node id="2562442741" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7217440" lon="-74.0026167"/>
+ <node id="2562442745" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7217721" lon="-74.0036958"/>
+ <node id="2562442746" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7217790" lon="-74.0026880"/>
+ <node id="2562442747" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7217868" lon="-74.0035645"/>
+ <node id="2562442749" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7217906" lon="-74.0032515"/>
+ <node id="2562442752" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7218119" lon="-74.0036163"/>
+ <node id="2562442753" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7218165" lon="-74.0036586"/>
+ <node id="2562442754" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7218172" lon="-74.0037888"/>
+ <node id="2562442755" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7218185" lon="-74.0036107"/>
+ <node id="2562442759" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7218344" lon="-74.0036435"/>
+ <node id="2562442762" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7218471" lon="-74.0028266"/>
+ <node id="2562442768" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7218669" lon="-74.0021102"/>
+ <node id="2562442770" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7218672" lon="-74.0025412"/>
+ <node id="2562442775" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7218830" lon="-74.0036028"/>
+ <node id="2562442777" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7218927" lon="-74.0029545"/>
+ <node id="2562442779" visible="true" version="3" changeset="22001873" timestamp="2014-04-28T13:27:54Z" user="emacsen_dwg" uid="1782960" lat="40.7218988" lon="-74.0029317"/>
+ <node id="2562442785" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:41Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7219060" lon="-74.0026194"/>
+ <node id="2562442787" visible="true" version="2" changeset="46271259" timestamp="2017-02-21T11:08:15Z" user="robgeb" uid="336460" lat="40.7219189" lon="-74.0039986"/>
+ <node id="2562442794" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7219325" lon="-74.0024631"/>
+ <node id="2562442796" visible="true" version="2" changeset="34077379" timestamp="2015-09-17T10:13:28Z" user="robgeb" uid="336460" lat="40.7219384" lon="-74.0035564"/>
+ <node id="2562442798" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7219402" lon="-74.0024787"/>
+ <node id="2562442800" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7219584" lon="-74.0035975"/>
+ <node id="2562442802" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7219613" lon="-74.0020293"/>
+ <node id="2562442806" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7219633" lon="-74.0039614"/>
+ <node id="2562442809" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7219930" lon="-74.0023644"/>
+ <node id="2562442810" visible="true" version="2" changeset="34077379" timestamp="2015-09-17T10:13:28Z" user="robgeb" uid="336460" lat="40.7220038" lon="-74.0035591"/>
+ <node id="2562442814" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7220093" lon="-74.0023973"/>
+ <node id="2562442816" visible="true" version="2" changeset="46271259" timestamp="2017-02-21T11:08:15Z" user="robgeb" uid="336460" lat="40.7221299" lon="-74.0038218"/>
+ <node id="2562442818" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7220343" lon="-74.0036221"/>
+ <node id="2562442820" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7220632" lon="-74.0019419"/>
+ <node id="2562442822" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7220692" lon="-74.0036940"/>
+ <node id="2562442825" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7220819" lon="-74.0023572"/>
+ <node id="2562442828" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7220874" lon="-74.0022834"/>
+ <node id="2562442830" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7220895" lon="-74.0030037"/>
+ <node id="2562442832" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7221014" lon="-74.0037604"/>
+ <node id="2562442834" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7221022" lon="-74.0023567"/>
+ <node id="2562442836" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7221107" lon="-74.0023304"/>
+ <node id="2562442838" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7221190" lon="-74.0018941"/>
+ <node id="2562442839" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7221207" lon="-74.0024354"/>
+ <node id="2562442842" visible="true" version="2" changeset="34077379" timestamp="2015-09-17T10:13:28Z" user="robgeb" uid="336460" lat="40.7221465" lon="-74.0034387"/>
+ <node id="2562442845" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7221632" lon="-74.0031525"/>
+ <node id="2562442846" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7221636" lon="-74.0023041"/>
+ <node id="2562442849" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7221767" lon="-74.0035027"/>
+ <node id="2562442850" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7221777" lon="-74.0023326"/>
+ <node id="2562442851" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7221804" lon="-74.0034996"/>
+ <node id="2562442852" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7221901" lon="-74.0040948"/>
+ <node id="2562442853" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222025" lon="-74.0032320"/>
+ <node id="2562442855" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222112" lon="-74.0042269"/>
+ <node id="2562442856" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:42Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222126" lon="-74.0022431"/>
+ <node id="2562442858" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222153" lon="-74.0035716"/>
+ <node id="2562442859" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222299" lon="-74.0017991"/>
+ <node id="2562442860" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222320" lon="-74.0028818"/>
+ <node id="2562442861" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222334" lon="-74.0022849"/>
+ <node id="2562442862" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222367" lon="-74.0021627"/>
+ <node id="2562442863" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222398" lon="-74.0033073"/>
+ <node id="2562442864" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222430" lon="-74.0041990"/>
+ <node id="2562442865" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222475" lon="-74.0036380"/>
+ <node id="2562442866" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222477" lon="-74.0021533"/>
+ <node id="2562442867" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222479" lon="-74.0026504"/>
+ <node id="2562442868" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222620" lon="-74.0043272"/>
+ <node id="2562442870" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222703" lon="-74.0022035"/>
+ <node id="2562442871" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222719" lon="-74.0022021"/>
+ <node id="2562442872" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222769" lon="-74.0036986"/>
+ <node id="2562442873" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222770" lon="-74.0033823"/>
+ <node id="2562442874" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222783" lon="-74.0022464"/>
+ <node id="2562442875" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222876" lon="-74.0022384"/>
+ <node id="2562442876" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7222992" lon="-74.0017396"/>
+ <node id="2562442877" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7223057" lon="-74.0030306"/>
+ <node id="2562442878" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7223093" lon="-74.0025978"/>
+ <node id="2562442879" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7223131" lon="-74.0034552"/>
+ <node id="2562442881" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7223231" lon="-74.0028038"/>
+ <node id="2562442886" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7223720" lon="-74.0020855"/>
+ <node id="2562442887" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7223773" lon="-74.0039309"/>
+ <node id="2562442888" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7223793" lon="-74.0016710"/>
+ <node id="2562442889" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7223827" lon="-74.0021071"/>
+ <node id="2562442890" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7223862" lon="-74.0036029"/>
+ <node id="2562442891" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7223968" lon="-74.0029526"/>
+ <node id="2562442892" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7223981" lon="-74.0042080"/>
+ <node id="2562442894" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:43Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7224016" lon="-74.0030617"/>
+ <node id="2562442896" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7224192" lon="-74.0025036"/>
+ <node id="2562442898" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7224261" lon="-74.0033586"/>
+ <node id="2562442899" visible="true" version="3" changeset="22001873" timestamp="2014-04-28T13:27:54Z" user="emacsen_dwg" uid="1782960" lat="40.7224301" lon="-74.0040351"/>
+ <node id="2562442900" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7224347" lon="-74.0027084"/>
+ <node id="2562442901" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7224362" lon="-74.0030321"/>
+ <node id="2562442902" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7224365" lon="-74.0020610"/>
+ <node id="2562442903" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7224389" lon="-74.0031370"/>
+ <node id="2562442904" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7224413" lon="-74.0020261"/>
+ <node id="2562442905" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7224509" lon="-74.0020453"/>
+ <node id="2562442906" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7224538" lon="-74.0018213"/>
+ <node id="2562442907" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7224562" lon="-74.0030726"/>
+ <node id="2562442909" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7224760" lon="-74.0032120"/>
+ <node id="2562442910" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7224810" lon="-74.0041354"/>
+ <node id="2562442911" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7224829" lon="-74.0031405"/>
+ <node id="2562442912" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7224944" lon="-74.0019030"/>
+ <node id="2562442913" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7224992" lon="-74.0035062"/>
+ <node id="2562442915" visible="true" version="3" changeset="22001873" timestamp="2014-04-28T13:27:53Z" user="emacsen_dwg" uid="1782960" lat="40.7225028" lon="-74.0038279"/>
+ <node id="2562442917" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7225057" lon="-74.0015627"/>
+ <node id="2562442918" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7225073" lon="-74.0018919"/>
+ <node id="2562442919" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7225122" lon="-74.0032849"/>
+ <node id="2562442921" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7225159" lon="-74.0015659"/>
+ <node id="2562442922" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7225277" lon="-74.0015755"/>
+ <node id="2562442923" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7225310" lon="-74.0019767"/>
+ <node id="2562442924" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7225404" lon="-74.0030913"/>
+ <node id="2562442925" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7225418" lon="-74.0032596"/>
+ <node id="2562442926" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7225431" lon="-74.0039103"/>
+ <node id="2562442927" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7225439" lon="-74.0019656"/>
+ <node id="2562442928" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7225523" lon="-74.0026078"/>
+ <node id="2562442929" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7225655" lon="-74.0022764"/>
+ <node id="2562442930" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7225678" lon="-74.0029772"/>
+ <node id="2562442931" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7225715" lon="-74.0029846"/>
+ <node id="2562442932" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7225727" lon="-74.0039709"/>
+ <node id="2562442934" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7225854" lon="-74.0023611"/>
+ <node id="2562442935" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7225912" lon="-74.0017035"/>
+ <node id="2562442936" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7225968" lon="-74.0030431"/>
+ <node id="2562442937" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226024" lon="-74.0030546"/>
+ <node id="2562442938" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226030" lon="-74.0040327"/>
+ <node id="2562442939" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226149" lon="-74.0034073"/>
+ <node id="2562442940" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226169" lon="-74.0034112"/>
+ <node id="2562442942" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226275" lon="-74.0029367"/>
+ <node id="2562442943" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226303" lon="-74.0031108"/>
+ <node id="2562442944" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226309" lon="-74.0040897"/>
+ <node id="2562442945" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:44Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226399" lon="-74.0037120"/>
+ <node id="2562442946" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226469" lon="-74.0031180"/>
+ <node id="2562442947" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226594" lon="-74.0041480"/>
+ <node id="2562442948" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226595" lon="-74.0031435"/>
+ <node id="2562442949" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226606" lon="-74.0038109"/>
+ <node id="2562442950" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226610" lon="-74.0030044"/>
+ <node id="2562442951" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226671" lon="-74.0031370"/>
+ <node id="2562442952" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226674" lon="-74.0025093"/>
+ <node id="2562442953" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226683" lon="-74.0018589"/>
+ <node id="2562442954" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226744" lon="-74.0033620"/>
+ <node id="2562442955" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226782" lon="-74.0031813"/>
+ <node id="2562442956" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226790" lon="-74.0030406"/>
+ <node id="2562442957" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226801" lon="-74.0037945"/>
+ <node id="2562442958" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226858" lon="-74.0031748"/>
+ <node id="2562442959" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226863" lon="-74.0030555"/>
+ <node id="2562442960" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226883" lon="-74.0030596"/>
+ <node id="2562442961" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226886" lon="-74.0039604"/>
+ <node id="2562442962" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226892" lon="-74.0030818"/>
+ <node id="2562442963" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226903" lon="-74.0038715"/>
+ <node id="2562442964" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226907" lon="-74.0028874"/>
+ <node id="2562442965" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7226955" lon="-74.0039745"/>
+ <node id="2562442966" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227007" lon="-74.0029075"/>
+ <node id="2562442967" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227034" lon="-74.0032585"/>
+ <node id="2562442968" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227064" lon="-74.0032382"/>
+ <node id="2562442970" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227206" lon="-74.0039333"/>
+ <node id="2562442971" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227288" lon="-74.0033098"/>
+ <node id="2562442972" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227308" lon="-74.0033138"/>
+ <node id="2562442973" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227370" lon="-74.0028765"/>
+ <node id="2562442974" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227380" lon="-74.0040613"/>
+ <node id="2562442975" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227383" lon="-74.0039141"/>
+ <node id="2562442977" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227450" lon="-74.0040757"/>
+ <node id="2562442978" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227468" lon="-74.0039312"/>
+ <node id="2562442979" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227487" lon="-74.0032020"/>
+ <node id="2562442981" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227620" lon="-74.0032084"/>
+ <node id="2562442982" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227629" lon="-74.0024276"/>
+ <node id="2562442983" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227677" lon="-74.0039740"/>
+ <node id="2562442984" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227687" lon="-74.0039416"/>
+ <node id="2562442985" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227759" lon="-74.0039237"/>
+ <node id="2562442987" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227768" lon="-74.0029569"/>
+ <node id="2562442988" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227800" lon="-74.0039321"/>
+ <node id="2562442989" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227804" lon="-74.0027373"/>
+ <node id="2562442990" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227819" lon="-74.0039187"/>
+ <node id="2562442991" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227830" lon="-74.0020900"/>
+ <node id="2562442992" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227842" lon="-74.0029718"/>
+ <node id="2562442993" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227859" lon="-74.0039270"/>
+ <node id="2562442994" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227874" lon="-74.0032597"/>
+ <node id="2562442995" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227875" lon="-74.0028332"/>
+ <node id="2562442996" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7227892" lon="-74.0040180"/>
+ <node id="2562442997" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228011" lon="-74.0040078"/>
+ <node id="2562442998" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228059" lon="-74.0027889"/>
+ <node id="2562442999" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:45Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228077" lon="-74.0023893"/>
+ <node id="2562443001" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228123" lon="-74.0040146"/>
+ <node id="2562443002" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228163" lon="-74.0028914"/>
+ <node id="2562443003" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228174" lon="-74.0027057"/>
+ <node id="2562443006" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228262" lon="-74.0040430"/>
+ <node id="2562443007" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228323" lon="-74.0025676"/>
+ <node id="2562443008" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228351" lon="-74.0040355"/>
+ <node id="2562443009" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228386" lon="-74.0038306"/>
+ <node id="2562443010" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228395" lon="-74.0040444"/>
+ <node id="2562443011" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228444" lon="-74.0040820"/>
+ <node id="2562443013" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228473" lon="-74.0040378"/>
+ <node id="2562443014" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228493" lon="-74.0023537"/>
+ <node id="2562443015" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228566" lon="-74.0038673"/>
+ <node id="2562443016" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228587" lon="-74.0041297"/>
+ <node id="2562443017" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228608" lon="-74.0041154"/>
+ <node id="2562443018" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228618" lon="-74.0040673"/>
+ <node id="2562443019" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228669" lon="-74.0028482"/>
+ <node id="2562443020" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228759" lon="-74.0026556"/>
+ <node id="2562443021" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228770" lon="-74.0025293"/>
+ <node id="2562443022" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228853" lon="-74.0031760"/>
+ <node id="2562443023" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228884" lon="-74.0023203"/>
+ <node id="2562443024" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228886" lon="-74.0041909"/>
+ <node id="2562443025" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228889" lon="-74.0040029"/>
+ <node id="2562443026" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228893" lon="-74.0039876"/>
+ <node id="2562443027" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228945" lon="-74.0039982"/>
+ <node id="2562443028" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7228984" lon="-74.0040221"/>
+ <node id="2562443029" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7229040" lon="-74.0040174"/>
+ <node id="2562443030" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7229074" lon="-74.0037724"/>
+ <node id="2562443031" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7229078" lon="-74.0039720"/>
+ <node id="2562443032" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7229096" lon="-74.0040288"/>
+ <node id="2562443033" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7229107" lon="-74.0028942"/>
+ <node id="2562443034" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7229130" lon="-74.0028922"/>
+ <node id="2562443035" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7229145" lon="-74.0026050"/>
+ <node id="2562443037" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7229165" lon="-74.0034794"/>
+ <node id="2562443038" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7229280" lon="-74.0040132"/>
+ <node id="2562443039" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7229321" lon="-74.0029799"/>
+ <node id="2562443040" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7229358" lon="-74.0031327"/>
+ <node id="2562443042" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7229428" lon="-74.0038446"/>
+ <node id="2562443043" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7229561" lon="-74.0025694"/>
+ <node id="2562443044" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7229735" lon="-74.0037165"/>
+ <node id="2562443046" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7229780" lon="-74.0041154"/>
+ <node id="2562443047" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7229827" lon="-74.0039262"/>
+ <node id="2562443048" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7229864" lon="-74.0030895"/>
+ <node id="2562443050" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7229952" lon="-74.0025359"/>
+ <node id="2562443051" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7230013" lon="-74.0025483"/>
+ <node id="2562443053" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:46Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7230077" lon="-74.0039774"/>
+ <node id="2562443056" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:47Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7230153" lon="-74.0036813"/>
+ <node id="2562443058" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:47Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7230468" lon="-74.0040572"/>
+ <node id="2562443060" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:47Z" user="lxbarth_nycbuildings" uid="1764427" lat="40.7230946" lon="-74.0027368"/>
+ <node id="3708656601" visible="true" version="1" changeset="33495908" timestamp="2015-08-21T22:32:38Z" user="Ryan Vilim" uid="3168236" lat="40.7216548" lon="-74.0023474">
+  <tag k="amenity" v="bicycle_rental"/>
+  <tag k="capacity" v="39"/>
+  <tag k="name" v="Citi Bike - Grand St &amp; Greene St"/>
+  <tag k="network" v="Citi Bike"/>
+  <tag k="operator" v="NYC Bike Share"/>
+  <tag k="website" v="http://citibikenyc.com"/>
+ </node>
+ <node id="3747406860" visible="true" version="1" changeset="34077379" timestamp="2015-09-17T10:13:27Z" user="robgeb" uid="336460" lat="40.7219432" lon="-74.0026951"/>
+ <node id="3747406861" visible="true" version="1" changeset="34077379" timestamp="2015-09-17T10:13:27Z" user="robgeb" uid="336460" lat="40.7219787" lon="-74.0030927"/>
+ <node id="3747406862" visible="true" version="1" changeset="34077379" timestamp="2015-09-17T10:13:27Z" user="robgeb" uid="336460" lat="40.7220152" lon="-74.0028451"/>
+ <node id="3747406863" visible="true" version="1" changeset="34077379" timestamp="2015-09-17T10:13:27Z" user="robgeb" uid="336460" lat="40.7221575" lon="-74.0025087"/>
+ <node id="3747406864" visible="true" version="1" changeset="34077379" timestamp="2015-09-17T10:13:27Z" user="robgeb" uid="336460" lat="40.7221715" lon="-74.0024964"/>
+ <node id="3788379729" visible="true" version="1" changeset="34666433" timestamp="2015-10-16T00:23:36Z" user="SH17" uid="2591427" lat="40.7229508" lon="-74.0048836"/>
+ <node id="3788379730" visible="true" version="1" changeset="34666433" timestamp="2015-10-16T00:23:36Z" user="SH17" uid="2591427" lat="40.7229215" lon="-74.0048080"/>
+ <node id="4589659390" visible="true" version="1" changeset="44906899" timestamp="2017-01-04T19:39:33Z" user="KVBIAK" uid="3866698" lat="40.7216512" lon="-74.0019510">
+  <tag k="name" v="Fjäll Räven"/>
+  <tag k="name:en" v="Fjäll Räven"/>
+  <tag k="shop" v="clothes"/>
+ </node>
+ <node id="4616285489" visible="true" version="1" changeset="45271282" timestamp="2017-01-18T14:20:57Z" user="KVBIAK" uid="3866698" lat="40.7215711" lon="-74.0024062">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="name" v="Boffi"/>
+  <tag k="name:en" v="Boffi"/>
+ </node>
+ <node id="4676469047" visible="true" version="1" changeset="45945314" timestamp="2017-02-09T11:55:33Z" user="robgeb" uid="336460" lat="40.7229262" lon="-74.0033067"/>
+ <node id="4697122875" visible="true" version="1" changeset="46271259" timestamp="2017-02-21T11:08:13Z" user="robgeb" uid="336460" lat="40.7218374" lon="-74.0036999"/>
+ <node id="4755831442" visible="true" version="1" changeset="47168376" timestamp="2017-03-26T06:57:39Z" user="Wolowitz" uid="670376" lat="40.7207439" lon="-74.0005093"/>
+ <node id="4890621095" visible="true" version="1" changeset="49177246" timestamp="2017-06-01T21:06:54Z" user="ALE!" uid="40023" lat="40.7208005" lon="-74.0050887"/>
+ <node id="4890633699" visible="true" version="1" changeset="49177246" timestamp="2017-06-01T21:19:14Z" user="ALE!" uid="40023" lat="40.7229610" lon="-74.0049189"/>
+ <node id="4890633707" visible="true" version="1" changeset="49177246" timestamp="2017-06-01T21:19:14Z" user="ALE!" uid="40023" lat="40.7231191" lon="-74.0060797"/>
+ <node id="4890633710" visible="true" version="1" changeset="49177246" timestamp="2017-06-01T21:19:14Z" user="ALE!" uid="40023" lat="40.7230286" lon="-74.0051934"/>
+ <node id="5216470727" visible="true" version="1" changeset="53586250" timestamp="2017-11-07T16:45:11Z" user="ALE!" uid="40023" lat="40.7230023" lon="-74.0050623">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <way id="5670193" visible="true" version="6" changeset="46799901" timestamp="2017-03-13T02:06:10Z" user="Sunfishtommy" uid="2302638">
+  <nd ref="42433581"/>
+  <nd ref="1919595926"/>
+  <nd ref="42433578"/>
+  <nd ref="42433577"/>
+  <nd ref="42432148"/>
+  <nd ref="42433574"/>
+  <nd ref="2151385472"/>
+  <nd ref="42433573"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="25 mph"/>
+  <tag k="name" v="Wooster Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="Wooster"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:zip_left" v="10012"/>
+  <tag k="tiger:zip_right" v="10012"/>
+ </way>
+ <way id="5672871" visible="true" version="6" changeset="46799901" timestamp="2017-03-13T02:06:13Z" user="Sunfishtommy" uid="2302638">
+  <nd ref="42440823"/>
+  <nd ref="42452040"/>
+  <nd ref="42432152"/>
+  <nd ref="42442273"/>
+  <nd ref="42456197"/>
+  <nd ref="1919595917"/>
+  <nd ref="42448554"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="25 mph"/>
+  <tag k="name" v="Greene Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="Greene"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:zip_left" v="10012"/>
+  <tag k="tiger:zip_right" v="10012"/>
+ </way>
+ <way id="46139036" visible="true" version="8" changeset="49177246" timestamp="2017-06-01T21:06:55Z" user="ALE!" uid="40023">
+  <nd ref="42430126"/>
+  <nd ref="4890621095"/>
+  <nd ref="2151385487"/>
+  <nd ref="42440829"/>
+  <nd ref="2151385500"/>
+  <nd ref="42452026"/>
+  <tag k="cycleway:right" v="shared_lane"/>
+  <tag k="hgv" v="local"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="maxspeed" v="25 mph"/>
+  <tag k="name" v="West Broadway"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="Broadway"/>
+  <tag k="tiger:name_direction_prefix" v="W"/>
+  <tag k="tiger:zip_left" v="10012"/>
+  <tag k="tiger:zip_right" v="10012"/>
+ </way>
+ <way id="46332295" visible="true" version="8" changeset="46799901" timestamp="2017-03-13T02:06:15Z" user="Sunfishtommy" uid="2302638">
+  <nd ref="42452026"/>
+  <nd ref="4676469047"/>
+  <nd ref="42432142"/>
+  <nd ref="42442276"/>
+  <nd ref="42454423"/>
+  <tag k="cycleway" v="shared_lane"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="maxspeed" v="25 mph"/>
+  <tag k="name" v="West Broadway"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="Broadway"/>
+  <tag k="tiger:name_direction_prefix" v="W"/>
+  <tag k="tiger:zip_left" v="10012"/>
+  <tag k="tiger:zip_right" v="10012"/>
+ </way>
+ <way id="68668546" visible="true" version="5" changeset="47168376" timestamp="2017-03-26T06:57:41Z" user="Wolowitz" uid="670376">
+  <nd ref="42452026"/>
+  <nd ref="42433574"/>
+  <nd ref="42452040"/>
+  <nd ref="42449570"/>
+  <nd ref="42428436"/>
+  <nd ref="4755831442"/>
+  <nd ref="42452048"/>
+  <nd ref="42445489"/>
+  <nd ref="42427324"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="cycleway:right" v="track"/>
+  <tag k="hgv" v="local"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="maxspeed" v="25 mph"/>
+  <tag k="name" v="Grand Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="Grand"/>
+  <tag k="tiger:name_type" v="St"/>
+ </way>
+ <way id="247865184" visible="true" version="1" changeset="19074725" timestamp="2013-11-23T16:19:43Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2547224019"/>
+  <nd ref="2547224009"/>
+  <nd ref="2547223994"/>
+  <nd ref="2547223970"/>
+  <nd ref="2547223974"/>
+  <nd ref="2547224015"/>
+  <nd ref="2547224031"/>
+  <nd ref="2547224036"/>
+  <nd ref="2547224046"/>
+  <nd ref="2547224065"/>
+  <nd ref="2547224035"/>
+  <nd ref="2547224019"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="28.1"/>
+  <tag k="nycdoitt:bin" v="1007300"/>
+ </way>
+ <way id="247865208" visible="true" version="1" changeset="19074725" timestamp="2013-11-23T16:19:45Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2547223964"/>
+  <nd ref="2547223970"/>
+  <nd ref="2547223994"/>
+  <nd ref="2547223988"/>
+  <nd ref="2547223982"/>
+  <nd ref="2547223964"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="24.0"/>
+  <tag k="nycdoitt:bin" v="1007299"/>
+ </way>
+ <way id="248771004" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:02Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2555120981"/>
+  <nd ref="2555120968"/>
+  <nd ref="2555120950"/>
+  <nd ref="2555120962"/>
+  <nd ref="2555120989"/>
+  <nd ref="2555120991"/>
+  <nd ref="2555120986"/>
+  <nd ref="2555120981"/>
+  <tag k="addr:housenumber" v="100"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="height" v="27.1"/>
+  <tag k="nycdoitt:bin" v="1007044"/>
+ </way>
+ <way id="248771045" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:07Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2555121013"/>
+  <nd ref="2555121021"/>
+  <nd ref="2555121031"/>
+  <nd ref="2555121041"/>
+  <nd ref="2555121025"/>
+  <nd ref="2555121013"/>
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Greene Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="20.5"/>
+  <tag k="nycdoitt:bin" v="1007031"/>
+ </way>
+ <way id="248771069" visible="true" version="2" changeset="20277908" timestamp="2014-01-30T06:30:48Z" user="ingalls" uid="305985">
+  <nd ref="2555121039"/>
+  <nd ref="2555121025"/>
+  <nd ref="2555121041"/>
+  <nd ref="2555121063"/>
+  <nd ref="2555121053"/>
+  <nd ref="2555121039"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="20.0"/>
+  <tag k="nycdoitt:bin" v="1084910"/>
+ </way>
+ <way id="248771079" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:12Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2555120935"/>
+  <nd ref="2555120941"/>
+  <nd ref="2555120969"/>
+  <nd ref="2555120965"/>
+  <nd ref="2555120935"/>
+  <tag k="addr:housenumber" v="91"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="15.3"/>
+  <tag k="nycdoitt:bin" v="1002994"/>
+ </way>
+ <way id="248771080" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:12Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2555120926"/>
+  <nd ref="2555120934"/>
+  <nd ref="2555120935"/>
+  <nd ref="2555120965"/>
+  <nd ref="2555120957"/>
+  <nd ref="2555120926"/>
+  <tag k="addr:housenumber" v="93"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="15.2"/>
+  <tag k="nycdoitt:bin" v="1002995"/>
+ </way>
+ <way id="248771109" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:15Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2555120939"/>
+  <nd ref="2555120946"/>
+  <nd ref="2555120979"/>
+  <nd ref="2555120969"/>
+  <nd ref="2555120941"/>
+  <nd ref="2555120939"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="23.4"/>
+  <tag k="nycdoitt:bin" v="1002993"/>
+ </way>
+ <way id="248771124" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:17Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2555121011"/>
+  <nd ref="2555121007"/>
+  <nd ref="2555120978"/>
+  <nd ref="2555120994"/>
+  <nd ref="2555121031"/>
+  <nd ref="2555121021"/>
+  <nd ref="2555121015"/>
+  <nd ref="2555121011"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="23.5"/>
+  <tag k="nycdoitt:bin" v="1007046"/>
+ </way>
+ <way id="248771128" visible="true" version="1" changeset="19153604" timestamp="2013-11-28T03:29:17Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2555120962"/>
+  <nd ref="2555120978"/>
+  <nd ref="2555121007"/>
+  <nd ref="2555121011"/>
+  <nd ref="2555121015"/>
+  <nd ref="2555121008"/>
+  <nd ref="2555120998"/>
+  <nd ref="2555120989"/>
+  <nd ref="2555120962"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="26.4"/>
+  <tag k="nycdoitt:bin" v="1007045"/>
+ </way>
+ <way id="249664299" visible="true" version="2" changeset="41347198" timestamp="2016-08-09T14:58:14Z" user="wvdp" uid="436419">
+  <nd ref="2562442888"/>
+  <nd ref="2562442876"/>
+  <nd ref="2562442904"/>
+  <nd ref="2562442905"/>
+  <nd ref="2562442923"/>
+  <nd ref="2562442912"/>
+  <nd ref="2562442906"/>
+  <nd ref="2562442888"/>
+  <tag k="addr:housenumber" v="53"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:state" v="NY"/>
+  <tag k="addr:street" v="Greene Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="ele" v="4"/>
+  <tag k="gnis:county_name" v="New York"/>
+  <tag k="gnis:feature_id" v="2080734"/>
+  <tag k="gnis:import_uuid" v="57871b70-0100-4405-bb30-88b2e001a944"/>
+  <tag k="gnis:reviewed" v="no"/>
+  <tag k="height" v="24.7"/>
+  <tag k="name" v="Gunther Building"/>
+  <tag k="nycdoitt:bin" v="1007078"/>
+  <tag k="source" v="USGS Geonames"/>
+  <tag k="wikidata" v="Q15032062"/>
+  <tag k="wikipedia" v="en:Gunther Building (Broome Street)"/>
+ </way>
+ <way id="249664301" visible="true" version="2" changeset="20277908" timestamp="2014-01-30T06:30:55Z" user="ingalls" uid="305985">
+  <nd ref="2562442657"/>
+  <nd ref="2562442658"/>
+  <nd ref="2562442679"/>
+  <nd ref="2562442701"/>
+  <nd ref="2562442672"/>
+  <nd ref="2562442657"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="23.2"/>
+  <tag k="nycdoitt:bin" v="1002972"/>
+ </way>
+ <way id="249664302" visible="true" version="2" changeset="20277908" timestamp="2014-01-30T06:30:49Z" user="ingalls" uid="305985">
+  <nd ref="2562442692"/>
+  <nd ref="2562442672"/>
+  <nd ref="2562442701"/>
+  <nd ref="2562442719"/>
+  <nd ref="2562442694"/>
+  <nd ref="2562442692"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="7.0"/>
+  <tag k="nycdoitt:bin" v="1002973"/>
+ </way>
+ <way id="249664303" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:48Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442694"/>
+  <nd ref="2562442719"/>
+  <nd ref="2562442724"/>
+  <nd ref="2562442708"/>
+  <nd ref="2562442694"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Wooster Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="19.5"/>
+  <tag k="nycdoitt:bin" v="1077456"/>
+ </way>
+ <way id="249664305" visible="true" version="2" changeset="46271259" timestamp="2017-02-21T11:08:14Z" user="robgeb" uid="336460">
+  <nd ref="2562442731"/>
+  <nd ref="2562442732"/>
+  <nd ref="2562442747"/>
+  <nd ref="2562442752"/>
+  <nd ref="2562442755"/>
+  <nd ref="2562442759"/>
+  <nd ref="2562442775"/>
+  <nd ref="2562442740"/>
+  <nd ref="2562442731"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Wooster Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="12.5"/>
+  <tag k="nycdoitt:bin" v="1079561"/>
+ </way>
+ <way id="249664306" visible="true" version="2" changeset="20277908" timestamp="2014-01-30T06:31:15Z" user="ingalls" uid="305985">
+  <nd ref="2562442726"/>
+  <nd ref="2562442722"/>
+  <nd ref="2562442717"/>
+  <nd ref="2562442714"/>
+  <nd ref="2562442707"/>
+  <nd ref="2562442708"/>
+  <nd ref="2562442724"/>
+  <nd ref="2562442737"/>
+  <nd ref="2562442727"/>
+  <nd ref="2562442726"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="18.7"/>
+  <tag k="nycdoitt:bin" v="1077455"/>
+ </way>
+ <way id="249664308" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:48Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442775"/>
+  <nd ref="2562442796"/>
+  <nd ref="2562442749"/>
+  <nd ref="2562442740"/>
+  <nd ref="2562442775"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Wooster Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="12.6"/>
+  <tag k="nycdoitt:bin" v="1079562"/>
+ </way>
+ <way id="249664309" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:49Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562443032"/>
+  <nd ref="2562443029"/>
+  <nd ref="2562443028"/>
+  <nd ref="2562443025"/>
+  <nd ref="2562443027"/>
+  <nd ref="2562443026"/>
+  <nd ref="2562443031"/>
+  <nd ref="2562443015"/>
+  <nd ref="2562442993"/>
+  <nd ref="2562442990"/>
+  <nd ref="2562442985"/>
+  <nd ref="2562442988"/>
+  <nd ref="2562442984"/>
+  <nd ref="2562442997"/>
+  <nd ref="2562443001"/>
+  <nd ref="2562443006"/>
+  <nd ref="2562443008"/>
+  <nd ref="2562443010"/>
+  <nd ref="2562443013"/>
+  <nd ref="2562443018"/>
+  <nd ref="2562443011"/>
+  <nd ref="2562443017"/>
+  <nd ref="2562443016"/>
+  <nd ref="2562443024"/>
+  <nd ref="2562443046"/>
+  <nd ref="2562443038"/>
+  <nd ref="2562443032"/>
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Thompson Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="20.7"/>
+  <tag k="nycdoitt:bin" v="1007106"/>
+ </way>
+ <way id="249664311" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:49Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442666"/>
+  <nd ref="2562442690"/>
+  <nd ref="2562442691"/>
+  <nd ref="2562442703"/>
+  <nd ref="2562442673"/>
+  <nd ref="2562442666"/>
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Greene Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="10.9"/>
+  <tag k="nycdoitt:bin" v="1002975"/>
+ </way>
+ <way id="249664312" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:49Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562443030"/>
+  <nd ref="2562443009"/>
+  <nd ref="2562443015"/>
+  <nd ref="2562443031"/>
+  <nd ref="2562443038"/>
+  <nd ref="2562443046"/>
+  <nd ref="2562443058"/>
+  <nd ref="2562443053"/>
+  <nd ref="2562443047"/>
+  <nd ref="2562443042"/>
+  <nd ref="2562443030"/>
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Thompson Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="5.8"/>
+  <tag k="nycdoitt:bin" v="1007107"/>
+ </way>
+ <way id="249664313" visible="true" version="2" changeset="20277908" timestamp="2014-01-30T06:30:59Z" user="ingalls" uid="305985">
+  <nd ref="2562442715"/>
+  <nd ref="2562442698"/>
+  <nd ref="2562442712"/>
+  <nd ref="2562442718"/>
+  <nd ref="2562442728"/>
+  <nd ref="2562442720"/>
+  <nd ref="2562442715"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="24.4"/>
+  <tag k="nycdoitt:bin" v="1002960"/>
+ </way>
+ <way id="249664314" visible="true" version="2" changeset="20277908" timestamp="2014-01-30T06:30:40Z" user="ingalls" uid="305985">
+  <nd ref="2562442860"/>
+  <nd ref="2562442877"/>
+  <nd ref="2562442891"/>
+  <nd ref="2562442881"/>
+  <nd ref="2562442860"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="10.1"/>
+  <tag k="nycdoitt:bin" v="1077733"/>
+ </way>
+ <way id="249664315" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:49Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442685"/>
+  <nd ref="2562442673"/>
+  <nd ref="2562442703"/>
+  <nd ref="2562442705"/>
+  <nd ref="2562442713"/>
+  <nd ref="2562442709"/>
+  <nd ref="2562442702"/>
+  <nd ref="2562442685"/>
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Greene Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="22.8"/>
+  <tag k="nycdoitt:bin" v="1002974"/>
+ </way>
+ <way id="249664316" visible="true" version="3" changeset="52289496" timestamp="2017-09-22T20:47:41Z" user="gkahn" uid="6072931">
+  <nd ref="2562442720"/>
+  <nd ref="2562442728"/>
+  <nd ref="2562442787"/>
+  <nd ref="2562442754"/>
+  <nd ref="2562442720"/>
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:country" v="USA"/>
+  <tag k="addr:district" v="Soho"/>
+  <tag k="addr:housenumber" v="311"/>
+  <tag k="addr:place" v="Soho Mews"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="West Broadway"/>
+  <tag k="building" v="apartments"/>
+  <tag k="height" v="37.9"/>
+  <tag k="name" v="Soho Mews"/>
+  <tag k="nycdoitt:bin" v="1087488"/>
+ </way>
+ <way id="249664318" visible="true" version="2" changeset="46271259" timestamp="2017-02-21T11:08:14Z" user="robgeb" uid="336460">
+  <nd ref="2562442745"/>
+  <nd ref="2562442754"/>
+  <nd ref="2562442787"/>
+  <nd ref="2562442806"/>
+  <nd ref="4697122875"/>
+  <nd ref="2562442753"/>
+  <nd ref="2562442745"/>
+  <tag k="addr:housenumber" v="323"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="West Broadway"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="7.2"/>
+  <tag k="nycdoitt:bin" v="1087487"/>
+ </way>
+ <way id="249664319" visible="true" version="2" changeset="46271259" timestamp="2017-02-21T11:08:15Z" user="robgeb" uid="336460">
+  <nd ref="4697122875"/>
+  <nd ref="2562442806"/>
+  <nd ref="2562442816"/>
+  <nd ref="2562442832"/>
+  <nd ref="2562442822"/>
+  <nd ref="2562442818"/>
+  <nd ref="2562442810"/>
+  <nd ref="2562442800"/>
+  <nd ref="4697122875"/>
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:housenumber" v="325"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="West Broadway"/>
+  <tag k="building" v="apartments"/>
+  <tag k="building:levels" v="9"/>
+  <tag k="height" v="39"/>
+  <tag k="name" v="XOCO 325"/>
+  <tag k="nycdoitt:bin" v="1079560"/>
+  <tag k="start_date" v="2016"/>
+ </way>
+ <way id="249664321" visible="true" version="2" changeset="20277908" timestamp="2014-01-30T06:30:52Z" user="ingalls" uid="305985">
+  <nd ref="2562442898"/>
+  <nd ref="2562442913"/>
+  <nd ref="2562442939"/>
+  <nd ref="2562442925"/>
+  <nd ref="2562442919"/>
+  <nd ref="2562442898"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="8.4"/>
+  <tag k="nycdoitt:bin" v="1007057"/>
+ </way>
+ <way id="249664324" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:50Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442911"/>
+  <nd ref="2562442925"/>
+  <nd ref="2562442939"/>
+  <nd ref="2562442940"/>
+  <nd ref="2562442954"/>
+  <nd ref="2562442924"/>
+  <nd ref="2562442911"/>
+  <tag k="addr:housenumber" v="345"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="West Broadway"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="25.8"/>
+  <tag k="nycdoitt:bin" v="1007058"/>
+ </way>
+ <way id="249664325" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:51Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442936"/>
+  <nd ref="2562442924"/>
+  <nd ref="2562442954"/>
+  <nd ref="2562442972"/>
+  <nd ref="2562442971"/>
+  <nd ref="2562442967"/>
+  <nd ref="2562442943"/>
+  <nd ref="2562442937"/>
+  <nd ref="2562442936"/>
+  <tag k="addr:housenumber" v="347"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="West Broadway"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="25.9"/>
+  <tag k="nycdoitt:bin" v="1007087"/>
+ </way>
+ <way id="249664326" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:51Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442979"/>
+  <nd ref="2562442962"/>
+  <nd ref="2562442960"/>
+  <nd ref="2562442959"/>
+  <nd ref="2562442956"/>
+  <nd ref="2562442950"/>
+  <nd ref="2562442937"/>
+  <nd ref="2562442943"/>
+  <nd ref="2562442946"/>
+  <nd ref="2562442948"/>
+  <nd ref="2562442951"/>
+  <nd ref="2562442958"/>
+  <nd ref="2562442955"/>
+  <nd ref="2562442968"/>
+  <nd ref="2562442967"/>
+  <nd ref="2562442971"/>
+  <nd ref="2562442994"/>
+  <nd ref="2562442981"/>
+  <nd ref="2562442979"/>
+  <tag k="addr:housenumber" v="349"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="West Broadway"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="23.8"/>
+  <tag k="nycdoitt:bin" v="1007059"/>
+ </way>
+ <way id="249664327" visible="true" version="3" changeset="52420461" timestamp="2017-09-27T17:30:05Z" user="Edward" uid="364">
+  <nd ref="2562442881"/>
+  <nd ref="2562442891"/>
+  <nd ref="2562442901"/>
+  <nd ref="2562442907"/>
+  <nd ref="2562442930"/>
+  <nd ref="2562442900"/>
+  <nd ref="2562442881"/>
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Wooster Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="23.3"/>
+  <tag k="name" v="The Drawing Center"/>
+  <tag k="nycdoitt:bin" v="1007088"/>
+  <tag k="tourism" v="attraction"/>
+  <tag k="wikidata" v="Q3039170"/>
+ </way>
+ <way id="249664328" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:51Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442945"/>
+  <nd ref="2562442957"/>
+  <nd ref="2562442975"/>
+  <nd ref="2562443009"/>
+  <nd ref="2562443030"/>
+  <nd ref="2562443044"/>
+  <nd ref="2562443056"/>
+  <nd ref="2562443037"/>
+  <nd ref="2562442945"/>
+  <tag k="addr:housenumber" v="350"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="West Broadway"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="43.3"/>
+  <tag k="nycdoitt:bin" v="1088502"/>
+ </way>
+ <way id="249664330" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:51Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442959"/>
+  <nd ref="2562442960"/>
+  <nd ref="2562442981"/>
+  <nd ref="2562442994"/>
+  <nd ref="2562443022"/>
+  <nd ref="2562442992"/>
+  <nd ref="2562442959"/>
+  <tag k="addr:housenumber" v="351"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="West Broadway"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="21.5"/>
+  <tag k="nycdoitt:bin" v="1007060"/>
+ </way>
+ <way id="249664331" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:51Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442995"/>
+  <nd ref="2562442973"/>
+  <nd ref="2562442987"/>
+  <nd ref="2562442992"/>
+  <nd ref="2562443022"/>
+  <nd ref="2562443040"/>
+  <nd ref="2562443002"/>
+  <nd ref="2562442995"/>
+  <tag k="addr:housenumber" v="355"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="West Broadway"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="17.1"/>
+  <tag k="nycdoitt:bin" v="1007061"/>
+ </way>
+ <way id="249664332" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:51Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562443019"/>
+  <nd ref="2562443002"/>
+  <nd ref="2562443040"/>
+  <nd ref="2562443048"/>
+  <nd ref="2562443039"/>
+  <nd ref="2562443019"/>
+  <tag k="addr:housenumber" v="357"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="West Broadway"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="12.2"/>
+  <tag k="nycdoitt:bin" v="1007062"/>
+ </way>
+ <way id="249664347" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:53Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442966"/>
+  <nd ref="2562442964"/>
+  <nd ref="2562442928"/>
+  <nd ref="2562442900"/>
+  <nd ref="2562442930"/>
+  <nd ref="2562442931"/>
+  <nd ref="2562442942"/>
+  <nd ref="2562442950"/>
+  <nd ref="2562442956"/>
+  <nd ref="2562442987"/>
+  <nd ref="2562442973"/>
+  <nd ref="2562442966"/>
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Wooster Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="15.7"/>
+  <tag k="nycdoitt:bin" v="1007072"/>
+ </way>
+ <way id="249664349" visible="true" version="2" changeset="34077379" timestamp="2015-09-17T10:13:28Z" user="robgeb" uid="336460">
+  <nd ref="2562442846"/>
+  <nd ref="2562442834"/>
+  <nd ref="3747406864"/>
+  <nd ref="2562442867"/>
+  <nd ref="2562442878"/>
+  <nd ref="2562442850"/>
+  <nd ref="2562442846"/>
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Wooster Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="23.1"/>
+  <tag k="nycdoitt:bin" v="1007076"/>
+ </way>
+ <way id="249664351" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:54Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442944"/>
+  <nd ref="2562442947"/>
+  <nd ref="2562442977"/>
+  <nd ref="2562442974"/>
+  <nd ref="2562442996"/>
+  <nd ref="2562442983"/>
+  <nd ref="2562442944"/>
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="18.0"/>
+  <tag k="nycdoitt:bin" v="1077729"/>
+ </way>
+ <way id="249664352" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:54Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442850"/>
+  <nd ref="2562442878"/>
+  <nd ref="2562442896"/>
+  <nd ref="2562442875"/>
+  <nd ref="2562442874"/>
+  <nd ref="2562442861"/>
+  <nd ref="2562442850"/>
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Wooster Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="31.9"/>
+  <tag k="nycdoitt:bin" v="1079905"/>
+ </way>
+ <way id="249664353" visible="true" version="5" changeset="26482454" timestamp="2014-11-01T14:17:10Z" user="robgeb" uid="336460">
+  <nd ref="2562442855"/>
+  <nd ref="2562442868"/>
+  <nd ref="2562442892"/>
+  <nd ref="2562442910"/>
+  <nd ref="2562442899"/>
+  <nd ref="2562442864"/>
+  <nd ref="2562442855"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:colour" v="#AE8665"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="building:material" v="brick"/>
+  <tag k="height" v="6.1"/>
+  <tag k="nycdoitt:bin" v="1002944"/>
+  <tag k="roof:material" v="concrete"/>
+  <tag k="roof:shape" v="flat"/>
+ </way>
+ <way id="249664354" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:54Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442952"/>
+  <nd ref="2562442928"/>
+  <nd ref="2562442964"/>
+  <nd ref="2562442998"/>
+  <nd ref="2562442989"/>
+  <nd ref="2562442952"/>
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Wooster Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="26.6"/>
+  <tag k="nycdoitt:bin" v="1007071"/>
+ </way>
+ <way id="249664355" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:54Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442938"/>
+  <nd ref="2562442944"/>
+  <nd ref="2562442983"/>
+  <nd ref="2562442978"/>
+  <nd ref="2562442965"/>
+  <nd ref="2562442961"/>
+  <nd ref="2562442938"/>
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="18.2"/>
+  <tag k="nycdoitt:bin" v="1077738"/>
+ </way>
+ <way id="249664356" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:55Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442838"/>
+  <nd ref="2562442820"/>
+  <nd ref="2562442856"/>
+  <nd ref="2562442861"/>
+  <nd ref="2562442874"/>
+  <nd ref="2562442862"/>
+  <nd ref="2562442866"/>
+  <nd ref="2562442838"/>
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Greene Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="32.2"/>
+  <tag k="nycdoitt:bin" v="1079904"/>
+ </way>
+ <way id="249664357" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:55Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442932"/>
+  <nd ref="2562442938"/>
+  <nd ref="2562442961"/>
+  <nd ref="2562442970"/>
+  <nd ref="2562442963"/>
+  <nd ref="2562442932"/>
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="17.7"/>
+  <tag k="nycdoitt:bin" v="1007115"/>
+ </way>
+ <way id="249664358" visible="true" version="2" changeset="20277908" timestamp="2014-01-30T06:30:55Z" user="ingalls" uid="305985">
+  <nd ref="2562442859"/>
+  <nd ref="2562442838"/>
+  <nd ref="2562442866"/>
+  <nd ref="2562442871"/>
+  <nd ref="2562442889"/>
+  <nd ref="2562442886"/>
+  <nd ref="2562442859"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="24.8"/>
+  <tag k="nycdoitt:bin" v="1007080"/>
+ </way>
+ <way id="249664359" visible="true" version="2" changeset="20277908" timestamp="2014-01-30T06:30:57Z" user="ingalls" uid="305985">
+  <nd ref="2562442982"/>
+  <nd ref="2562442952"/>
+  <nd ref="2562442989"/>
+  <nd ref="2562443003"/>
+  <nd ref="2562443020"/>
+  <nd ref="2562443007"/>
+  <nd ref="2562442982"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="7.3"/>
+  <tag k="nycdoitt:bin" v="1007070"/>
+ </way>
+ <way id="249664360" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:55Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442906"/>
+  <nd ref="2562442912"/>
+  <nd ref="2562442918"/>
+  <nd ref="2562442927"/>
+  <nd ref="2562442953"/>
+  <nd ref="2562442935"/>
+  <nd ref="2562442906"/>
+  <tag k="addr:housenumber" v="473"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Broome Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="27.9"/>
+  <tag k="nycdoitt:bin" v="1084911"/>
+ </way>
+ <way id="249664361" visible="true" version="2" changeset="20277908" timestamp="2014-01-30T06:30:58Z" user="ingalls" uid="305985">
+  <nd ref="2562442905"/>
+  <nd ref="2562442929"/>
+  <nd ref="2562442991"/>
+  <nd ref="2562442953"/>
+  <nd ref="2562442927"/>
+  <nd ref="2562442923"/>
+  <nd ref="2562442905"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="31.2"/>
+  <tag k="nycdoitt:bin" v="1007077"/>
+ </way>
+ <way id="249664362" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:55Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442926"/>
+  <nd ref="2562442932"/>
+  <nd ref="2562442963"/>
+  <nd ref="2562442949"/>
+  <nd ref="2562442926"/>
+  <tag k="addr:housenumber" v="48"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="17.8"/>
+  <tag k="nycdoitt:bin" v="1007114"/>
+ </way>
+ <way id="249664363" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:55Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562443003"/>
+  <nd ref="2562443033"/>
+  <nd ref="2562443034"/>
+  <nd ref="2562443060"/>
+  <nd ref="2562443051"/>
+  <nd ref="2562443020"/>
+  <nd ref="2562443003"/>
+  <tag k="addr:housenumber" v="489"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Broome Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="24.2"/>
+  <tag k="nycdoitt:bin" v="1007066"/>
+ </way>
+ <way id="249664365" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:55Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442870"/>
+  <nd ref="2562442875"/>
+  <nd ref="2562442896"/>
+  <nd ref="2562442934"/>
+  <nd ref="2562442902"/>
+  <nd ref="2562442889"/>
+  <nd ref="2562442871"/>
+  <nd ref="2562442870"/>
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Wooster Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="30.6"/>
+  <tag k="nycdoitt:bin" v="1079906"/>
+ </way>
+ <way id="249664367" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:56Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442859"/>
+  <nd ref="2562442886"/>
+  <nd ref="2562442904"/>
+  <nd ref="2562442876"/>
+  <nd ref="2562442859"/>
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Greene Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="23.2"/>
+  <tag k="nycdoitt:bin" v="1007079"/>
+ </way>
+ <way id="249664368" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:56Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442982"/>
+  <nd ref="2562443007"/>
+  <nd ref="2562443021"/>
+  <nd ref="2562442999"/>
+  <nd ref="2562442982"/>
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Wooster Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="13.7"/>
+  <tag k="nycdoitt:bin" v="1007069"/>
+ </way>
+ <way id="249664369" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:56Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442999"/>
+  <nd ref="2562443021"/>
+  <nd ref="2562443035"/>
+  <nd ref="2562443043"/>
+  <nd ref="2562443014"/>
+  <nd ref="2562442999"/>
+  <tag k="addr:housenumber" v="53"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Wooster Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="12.1"/>
+  <tag k="nycdoitt:bin" v="1007068"/>
+ </way>
+ <way id="249664370" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:56Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442822"/>
+  <nd ref="2562442832"/>
+  <nd ref="2562442865"/>
+  <nd ref="2562442858"/>
+  <nd ref="2562442822"/>
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="12.8"/>
+  <tag k="nycdoitt:bin" v="1002963"/>
+ </way>
+ <way id="249664371" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:56Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442818"/>
+  <nd ref="2562442822"/>
+  <nd ref="2562442858"/>
+  <nd ref="2562442851"/>
+  <nd ref="2562442849"/>
+  <nd ref="2562442818"/>
+  <tag k="addr:housenumber" v="57"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="13.7"/>
+  <tag k="nycdoitt:bin" v="1002964"/>
+ </way>
+ <way id="249664372" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:56Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442849"/>
+  <nd ref="2562442842"/>
+  <nd ref="2562442810"/>
+  <nd ref="2562442818"/>
+  <nd ref="2562442849"/>
+  <tag k="addr:housenumber" v="59"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="13.6"/>
+  <tag k="nycdoitt:bin" v="1002965"/>
+ </way>
+ <way id="249664373" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:56Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442873"/>
+  <nd ref="2562442879"/>
+  <nd ref="2562442898"/>
+  <nd ref="2562442919"/>
+  <nd ref="2562442909"/>
+  <nd ref="2562442873"/>
+  <tag k="addr:housenumber" v="60"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="26.3"/>
+  <tag k="nycdoitt:bin" v="1007075"/>
+ </way>
+ <way id="249664374" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:56Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442863"/>
+  <nd ref="2562442873"/>
+  <nd ref="2562442909"/>
+  <nd ref="2562442903"/>
+  <nd ref="2562442863"/>
+  <tag k="addr:housenumber" v="62"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="26.2"/>
+  <tag k="nycdoitt:bin" v="1007074"/>
+ </way>
+ <way id="249664375" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:56Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442853"/>
+  <nd ref="2562442863"/>
+  <nd ref="2562442903"/>
+  <nd ref="2562442894"/>
+  <nd ref="2562442853"/>
+  <tag k="addr:housenumber" v="64"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="26.2"/>
+  <tag k="nycdoitt:bin" v="1077730"/>
+ </way>
+ <way id="249664376" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:57Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442845"/>
+  <nd ref="2562442853"/>
+  <nd ref="2562442894"/>
+  <nd ref="2562442901"/>
+  <nd ref="2562442891"/>
+  <nd ref="2562442877"/>
+  <nd ref="2562442845"/>
+  <tag k="addr:housenumber" v="66"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="21.3"/>
+  <tag k="nycdoitt:bin" v="1077731"/>
+ </way>
+ <way id="249664377" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:57Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442717"/>
+  <nd ref="2562442722"/>
+  <nd ref="2562442726"/>
+  <nd ref="2562442727"/>
+  <nd ref="2562442762"/>
+  <nd ref="2562442746"/>
+  <nd ref="2562442717"/>
+  <tag k="addr:housenumber" v="75"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="28.3"/>
+  <tag k="nycdoitt:bin" v="1077408"/>
+ </way>
+ <way id="249664378" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:57Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442770"/>
+  <nd ref="2562442785"/>
+  <nd ref="2562442839"/>
+  <nd ref="2562442825"/>
+  <nd ref="2562442798"/>
+  <nd ref="2562442770"/>
+  <tag k="addr:housenumber" v="78"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="22.8"/>
+  <tag k="nycdoitt:bin" v="1007083"/>
+ </way>
+ <way id="249664380" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:57Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442713"/>
+  <nd ref="2562442714"/>
+  <nd ref="2562442717"/>
+  <nd ref="2562442746"/>
+  <nd ref="2562442741"/>
+  <nd ref="2562442713"/>
+  <tag k="addr:housenumber" v="79"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="20.8"/>
+  <tag k="nycdoitt:bin" v="1077422"/>
+ </way>
+ <way id="249664382" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:57Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442709"/>
+  <nd ref="2562442713"/>
+  <nd ref="2562442741"/>
+  <nd ref="2562442735"/>
+  <nd ref="2562442709"/>
+  <tag k="addr:housenumber" v="81"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="20.6"/>
+  <tag k="nycdoitt:bin" v="1077423"/>
+ </way>
+ <way id="249664383" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:57Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442702"/>
+  <nd ref="2562442709"/>
+  <nd ref="2562442735"/>
+  <nd ref="2562442730"/>
+  <nd ref="2562442702"/>
+  <tag k="addr:housenumber" v="83"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Grand Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="26.5"/>
+  <tag k="nycdoitt:bin" v="1077424"/>
+ </way>
+ <way id="249664384" visible="true" version="3" changeset="52289496" timestamp="2017-09-22T20:47:41Z" user="gkahn" uid="6072931">
+  <nd ref="2562442733"/>
+  <nd ref="2562442747"/>
+  <nd ref="2562442732"/>
+  <nd ref="2562442678"/>
+  <nd ref="2562442699"/>
+  <nd ref="2562442733"/>
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:country" v="USA"/>
+  <tag k="addr:district" v="Soho"/>
+  <tag k="addr:housenumber" v="311"/>
+  <tag k="addr:place" v="Soho Mews"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="West Broadway"/>
+  <tag k="building" v="apartments"/>
+  <tag k="height" v="35.0"/>
+  <tag k="name" v="Soho Mews"/>
+  <tag k="nycdoitt:bin" v="1002961"/>
+ </way>
+ <way id="249664385" visible="true" version="5" changeset="52369032" timestamp="2017-09-25T22:19:50Z" user="gkahn" uid="6072931">
+  <nd ref="2562442668"/>
+  <nd ref="2562442684"/>
+  <nd ref="2562442688"/>
+  <nd ref="2562442686"/>
+  <nd ref="2562442695"/>
+  <nd ref="2562442711"/>
+  <nd ref="2562442699"/>
+  <nd ref="2562442678"/>
+  <nd ref="2562442676"/>
+  <nd ref="2562442656"/>
+  <nd ref="2562442659"/>
+  <nd ref="2562442668"/>
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:district" v="Soho"/>
+  <tag k="addr:housenumber" v="3-7"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Wooster Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="ele" v="3"/>
+  <tag k="gnis:county_name" v="New York"/>
+  <tag k="gnis:feature_id" v="2080733"/>
+  <tag k="gnis:import_uuid" v="57871b70-0100-4405-bb30-88b2e001a944"/>
+  <tag k="gnis:reviewed" v="no"/>
+  <tag k="height" v="24.5"/>
+  <tag k="nycdoitt:bin" v="1087574"/>
+  <tag k="source" v="USGS Geonames"/>
+  <tag k="tourism" v="yes"/>
+  <tag k="wikidata" v="Q3039170"/>
+ </way>
+ <way id="249664389" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:58Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442768"/>
+  <nd ref="2562442809"/>
+  <nd ref="2562442828"/>
+  <nd ref="2562442802"/>
+  <nd ref="2562442768"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="27.4"/>
+  <tag k="nycdoitt:bin" v="1075678"/>
+ </way>
+ <way id="249664390" visible="true" version="4" changeset="26482454" timestamp="2014-11-01T14:17:10Z" user="robgeb" uid="336460">
+  <nd ref="2562442852"/>
+  <nd ref="2562442864"/>
+  <nd ref="2562442899"/>
+  <nd ref="2562442887"/>
+  <nd ref="2562442852"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:colour" v="#564F45"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="building:material" v="glass"/>
+  <tag k="height" v="3.8"/>
+  <tag k="nycdoitt:bin" v="1002945"/>
+  <tag k="roof:material" v="concrete"/>
+  <tag k="roof:shape" v="flat"/>
+ </way>
+ <way id="249664391" visible="true" version="3" changeset="22001873" timestamp="2014-04-28T13:39:48Z" user="emacsen_dwg" uid="1782960">
+  <nd ref="2562442702"/>
+  <nd ref="2562442730"/>
+  <nd ref="2562442723"/>
+  <nd ref="2562442685"/>
+  <nd ref="2562442702"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="25.6"/>
+  <tag k="nycdoitt:bin" v="1077425"/>
+ </way>
+ <way id="249664392" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:58Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442830"/>
+  <nd ref="2562442845"/>
+  <nd ref="2562442877"/>
+  <nd ref="2562442860"/>
+  <nd ref="2562442830"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="21.2"/>
+  <tag k="nycdoitt:bin" v="1077732"/>
+ </way>
+ <way id="249664396" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:58Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442879"/>
+  <nd ref="2562442890"/>
+  <nd ref="2562442913"/>
+  <nd ref="2562442898"/>
+  <nd ref="2562442879"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="7.3"/>
+  <tag k="nycdoitt:bin" v="1007056"/>
+ </way>
+ <way id="249664397" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:58Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562443043"/>
+  <nd ref="2562443050"/>
+  <nd ref="2562443023"/>
+  <nd ref="2562443014"/>
+  <nd ref="2562443043"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="16.1"/>
+  <tag k="nycdoitt:bin" v="1007067"/>
+ </way>
+ <way id="249664399" visible="true" version="3" changeset="22001873" timestamp="2014-04-28T13:38:17Z" user="emacsen_dwg" uid="1782960">
+  <nd ref="2562442915"/>
+  <nd ref="2562442926"/>
+  <nd ref="2562442949"/>
+  <nd ref="2562442957"/>
+  <nd ref="2562442945"/>
+  <nd ref="2562442915"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="21.5"/>
+  <tag k="nycdoitt:bin" v="1007113"/>
+ </way>
+ <way id="249664403" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:59Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442802"/>
+  <nd ref="2562442828"/>
+  <nd ref="2562442836"/>
+  <nd ref="2562442856"/>
+  <nd ref="2562442820"/>
+  <nd ref="2562442802"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="26.9"/>
+  <tag k="nycdoitt:bin" v="1007081"/>
+ </way>
+ <way id="249664404" visible="true" version="3" changeset="22001873" timestamp="2014-04-28T13:37:28Z" user="emacsen_dwg" uid="1782960">
+  <nd ref="2562442727"/>
+  <nd ref="2562442737"/>
+  <nd ref="2562442777"/>
+  <nd ref="2562442779"/>
+  <nd ref="2562442762"/>
+  <nd ref="2562442727"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="16.7"/>
+  <tag k="nycdoitt:bin" v="1077454"/>
+ </way>
+ <way id="249664406" visible="true" version="2" changeset="46271259" timestamp="2017-02-21T11:08:13Z" user="robgeb" uid="336460">
+  <nd ref="2562442816"/>
+  <nd ref="2562442872"/>
+  <nd ref="2562442865"/>
+  <nd ref="2562442832"/>
+  <nd ref="2562442816"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="21.6"/>
+  <tag k="nycdoitt:bin" v="1002962"/>
+ </way>
+ <way id="249664408" visible="true" version="1" changeset="19245821" timestamp="2013-12-03T05:25:59Z" user="lxbarth_nycbuildings" uid="1764427">
+  <nd ref="2562442906"/>
+  <nd ref="2562442935"/>
+  <nd ref="2562442922"/>
+  <nd ref="2562442921"/>
+  <nd ref="2562442917"/>
+  <nd ref="2562442888"/>
+  <nd ref="2562442906"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="27.6"/>
+  <tag k="nycdoitt:bin" v="1083492"/>
+ </way>
+ <way id="249664412" visible="true" version="3" changeset="22001873" timestamp="2014-04-28T13:39:38Z" user="emacsen_dwg" uid="1782960">
+  <nd ref="2562442768"/>
+  <nd ref="2562442736"/>
+  <nd ref="2562442770"/>
+  <nd ref="2562442798"/>
+  <nd ref="2562442794"/>
+  <nd ref="2562442814"/>
+  <nd ref="2562442809"/>
+  <nd ref="2562442768"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="23.3"/>
+  <tag k="nycdoitt:bin" v="1007082"/>
+ </way>
+ <way id="371138218" visible="true" version="1" changeset="34077379" timestamp="2015-09-17T10:13:27Z" user="robgeb" uid="336460">
+  <nd ref="3747406860"/>
+  <nd ref="2562442785"/>
+  <nd ref="2562442839"/>
+  <nd ref="3747406863"/>
+  <nd ref="3747406860"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="height" v="5"/>
+ </way>
+ <way id="371138220" visible="true" version="1" changeset="34077379" timestamp="2015-09-17T10:13:28Z" user="robgeb" uid="336460">
+  <nd ref="2562442867"/>
+  <nd ref="3747406862"/>
+  <nd ref="3747406860"/>
+  <nd ref="3747406863"/>
+  <nd ref="3747406864"/>
+  <nd ref="2562442867"/>
+  <tag k="landuse" v="brownfield"/>
+ </way>
+ <way id="371138221" visible="true" version="2" changeset="46271259" timestamp="2017-02-21T11:08:14Z" user="robgeb" uid="336460">
+  <nd ref="2562442842"/>
+  <nd ref="3747406861"/>
+  <nd ref="2562442749"/>
+  <nd ref="2562442796"/>
+  <nd ref="2562442800"/>
+  <nd ref="2562442810"/>
+  <nd ref="2562442842"/>
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="10013"/>
+  <tag k="addr:street" v="Wooster Street"/>
+  <tag k="building" v="apartments"/>
+  <tag k="building:levels" v="9"/>
+  <tag k="height" v="33"/>
+  <tag k="start_date" v="2014"/>
+ </way>
+ <way id="398927720" visible="true" version="2" changeset="45945314" timestamp="2017-02-09T11:55:34Z" user="robgeb" uid="336460">
+  <nd ref="1692433928"/>
+  <nd ref="1919595916"/>
+  <nd ref="42432142"/>
+  <nd ref="4676469047"/>
+  <nd ref="42452026"/>
+  <tag k="name" v="W. Broadway El 1881"/>
+  <tag k="railway" v="abandoned"/>
+ </way>
+ <way id="398927724" visible="true" version="4" changeset="51288019" timestamp="2017-08-20T23:17:55Z" user="nyuriks" uid="339581">
+  <nd ref="42431614"/>
+  <nd ref="42453059"/>
+  <nd ref="42445700"/>
+  <nd ref="2155551105"/>
+  <nd ref="42434855"/>
+  <nd ref="42440829"/>
+  <nd ref="42452026"/>
+  <tag k="name" v="W. Broadway/6 Av El 1881"/>
+  <tag k="railway" v="abandoned"/>
+ </way>
+ <way id="539024459" visible="true" version="1" changeset="53586250" timestamp="2017-11-07T16:45:11Z" user="ALE!" uid="40023">
+  <nd ref="42452015"/>
+  <nd ref="4890633707"/>
+  <nd ref="42439551"/>
+  <nd ref="4890633710"/>
+  <nd ref="5216470727"/>
+  <nd ref="4890633699"/>
+  <nd ref="3788379729"/>
+  <nd ref="3788379730"/>
+  <nd ref="42436763"/>
+  <nd ref="42452026"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="cycleway:right" v="track"/>
+  <tag k="hgv" v="destination"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="25 mph"/>
+  <tag k="name" v="Grand Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="Grand"/>
+  <tag k="tiger:name_type" v="St"/>
+ </way>
+ <relation id="3005478" visible="true" version="15" changeset="53586250" timestamp="2017-11-07T16:45:16Z" user="ALE!" uid="40023">
+  <member type="way" ref="68668546" role="forward"/>
+  <member type="way" ref="539024459" role="forward"/>
+  <member type="way" ref="40709929" role=""/>
+  <member type="way" ref="420354363" role=""/>
+  <member type="way" ref="226041016" role=""/>
+  <member type="way" ref="68668559" role=""/>
+  <member type="way" ref="194923770" role=""/>
+  <member type="way" ref="420354362" role=""/>
+  <member type="way" ref="46201679" role=""/>
+  <member type="way" ref="420354365" role=""/>
+  <member type="way" ref="420354364" role=""/>
+  <member type="way" ref="281455418" role=""/>
+  <member type="way" ref="420354360" role=""/>
+  <member type="way" ref="420354355" role=""/>
+  <member type="way" ref="281455419" role=""/>
+  <member type="way" ref="194923773" role=""/>
+  <member type="way" ref="194923774" role=""/>
+  <member type="way" ref="481962592" role=""/>
+  <member type="way" ref="194923769" role=""/>
+  <member type="way" ref="420884506" role=""/>
+  <member type="way" ref="439842827" role=""/>
+  <member type="way" ref="439842820" role=""/>
+  <member type="way" ref="439842823" role="forward"/>
+  <member type="way" ref="439842831" role="forward"/>
+  <tag k="cycle_network" v="US:NY:NYC"/>
+  <tag k="name" v="Grand Street"/>
+  <tag k="network" v="lcn"/>
+  <tag k="ref" v="Grand"/>
+  <tag k="route" v="bicycle"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="7081049" visible="true" version="2" changeset="46987182" timestamp="2017-03-19T16:34:58Z" user="TheBestIdea" uid="298513">
+  <member type="way" ref="46139036" role="forward"/>
+  <member type="way" ref="46332295" role=""/>
+  <member type="way" ref="321993366" role=""/>
+  <member type="way" ref="46171878" role="forward"/>
+  <member type="way" ref="46171883" role="forward"/>
+  <member type="way" ref="68668562" role="forward"/>
+  <member type="way" ref="439933951" role="forward"/>
+  <tag k="cycle_network" v="US:NY:NYC"/>
+  <tag k="name" v="W Broadway"/>
+  <tag k="network" v="lcn"/>
+  <tag k="ref" v="W B'way"/>
+  <tag k="route" v="bicycle"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="7296149" visible="true" version="1" changeset="49113600" timestamp="2017-05-30T19:53:30Z" user="RichRico" uid="2219338">
+  <member type="way" ref="68668562" role="from"/>
+  <member type="node" ref="42431614" role="via"/>
+  <member type="way" ref="127690685" role="to"/>
+  <tag k="restriction" v="no_right_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="7597658" visible="true" version="1" changeset="52289496" timestamp="2017-09-22T20:47:41Z" user="gkahn" uid="6072931">
+  <member type="way" ref="249664316" role="outer"/>
+  <member type="way" ref="249664384" role="outer"/>
+  <tag k="building" v="yes"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+</osm>
