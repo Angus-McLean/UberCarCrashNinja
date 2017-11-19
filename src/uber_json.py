@@ -44,5 +44,11 @@ for pickup in pickup_list:
 	key = str(lon) + ", " + str(lat)
 	heatmap[key] = heatmap.get(key, 0) + 1
 
+# Making the values held in the dictionary fractions
 for coord in heatmap:
-    print(coord + ": " + str(heatmap[coord]))
+    heatmap[coord] = heatmap[coord] / len(pickup_list)
+
+# Writing the heatmap to the JSON file
+file_name = "/home/sam/Documents/DataDive/Angus_repo/UberCarCrashNinja/json_files/uber.json"
+with open(file_name, 'w') as f:
+    json.dump(heatmap, f)
