@@ -19,15 +19,15 @@ heatmap = dict() # The heatmap dicts
 # Lists of big reasons, each one of these containing more details as keys, count as values
 bad_driving_reasons = ["DRIVER INATTENTION/DISTRACTION", "FAILURE TO YIELD RIGHT-OF-WAY", "BACKING UNSAFELY", "TURNING IMPROPERLY", "FOLLOWING TOO CLOSELY", "TRAFFIC CONTROL DISREGARDED", "DRIVER INEXPERIENCE", "PASSING OR LANE USAGE IMPROPER", "UNSAFE LANE CHANGING", "OUTSIDE CAR DISTRACTION", "REACTION TO OTHER UNINVOLVED VEHICLE", "UNSAFE SPEED", "PASSENGER DISTRACTION", "AGGRESSIVE DRIVING/ROAD RAGE", "OTHER ELECTRONIC DEVICE", "FAILURE TO KEEP RIGHT", "ANIMALS ACTION", "CELL PHONE (HANDS-FREE)", "CELL PHONE (HAND-HELD)"]
 bad_driving = dict(zip(["count"] + bad_driving_reasons, [0] * (len(bad_driving_reasons) + 1)))
-driver_condition_reasons = ["FATIGUED/DROWSY", "LOST CONSCIOUSNESS", "PRESCRIPTION MEDICATION", "ALCOHOL INVOLVEMENT", "PHYSICAL DISABILITY", "ILLNESS", "FELL ASLEEP", "DRUGS (ILLEGAL)"]
-driver_condition = dict(zip(["count"] + driver_condition_reasons, [0] * (len(driver_condition_reasons) + 1)))
+driver_impaired_reasons = ["FATIGUED/DROWSY", "LOST CONSCIOUSNESS", "PRESCRIPTION MEDICATION", "ALCOHOL INVOLVEMENT", "PHYSICAL DISABILITY", "ILLNESS", "FELL ASLEEP", "DRUGS (ILLEGAL)"]
+driver_impaired = dict(zip(["count"] + driver_impaired_reasons, [0] * (len(driver_impaired_reasons) + 1)))
 road_condition_reasons = ["PAVEMENT SLIPPERY", "OBSTRUCTION/DEBRIS", "PAVEMENT DEFECTIVE", "LANE MARKING IMPROPER/INADEQUATE", "TRAFFIC CONTROL DEVICE IMPROPER/NON-WORKING", "SHOULDERS DEFECTIVE/IMPROPER"]
 road_condition = dict(zip(["count"] + road_condition_reasons, [0] * (len(road_condition_reasons) + 1)))
 car_failure_reasons = ["BRAKES DEFECTIVE", "STEERING FAILURE", "TIRE FAILURE/INADEQUATE", "ACCELERATOR DEFECTIVE", "OTHER LIGHTING DEFECTS", "TOW HITCH DEFECTIVE", "HEADLIGHTS DEFECTIVE", "WINDSHIELD INADEQUATE"]
 car_failure = dict(zip(["count"] + car_failure_reasons, [0] * (len(car_failure_reasons) + 1)))
 bad_luck_reasons = ["OTHER VEHICULAR", "OVERSIZED VEHICLE", "VIEW OBSTRUCTED/LIMITED", "GLARE", "PEDESTRIAN/BICYCLIST/OTHER PEDESTRIAN ERROR/CONFUSION", "DRIVERLESS/RUNAWAY VEHICLE"]
 bad_luck = dict(zip(["count"] + bad_luck_reasons, [0] * (len(bad_luck_reasons) + 1)))
-collision_prob = dict(zip(["total", "BAD DRIVING", "DRIVER IMPAIRED", "BAD ROAD CONDITION", "CAR FAILURE", "BAD LUCK/SOMEONE ELSE'S FAULT"], [0, bad_driving, driver_condition, road_condition, car_failure, bad_luck])) # A collision dict that will populate the heatmap
+collision_prob = dict(zip(["total", "BAD DRIVING", "DRIVER IMPAIRED", "BAD ROAD CONDITION", "CAR FAILURE", "BAD LUCK/SOMEONE ELSE'S FAULT"], [0, bad_driving, driver_impaired, road_condition, car_failure, bad_luck])) # A collision dict that will populate the heatmap
 
 for collision in collisions:
 	lon = collision["LONGITUDE"]
@@ -35,19 +35,48 @@ for collision in collisions:
 		lon = float(lon)
 		lat = float(collision["LATITUDE"])
 		if lon > min_long and lon < (min_long + coords_range) and lat > min_lat and lat < (min_lat + coords_range) :
-			collision_list.append(dict(zip(["LATITUDE", "LONGITUDE", "FACTOR"], [lon, lat, collision["VEHICLE 1 FACTOR"]])))
+			# Calculating in which "box" the collision takes place, and creating the key out if it for the heatmap
+			lon = round((lon // resolution) * resolution, 3)
+			lat = round((lat // resolution) * resolution, 3)
+
+			# First, finding in which dict of reasons ("bad_driver", "driver_impaired", ...) the reason of the collision is
+			for big_reason in [bad_driving, driver_impaired, road_condition, car_failure, bad_luck]:
+				if collision["VEHICLE 1 FACTOR"] in big_reason:
+					# print(collision["VEHICLE 1 FACTOR"] + " is in " + str(big_reason) + " at key '" + str(lat) + ", " + str(lon) + "'")
+					key = str(lat) + ", " + str(lon)
+					heatmap.get(key,  
+					big_reason.get(collision["VEHICLE 1 FACTOR"], )
+			# Now, incrementing the count for that reason and the count of the dict of reasons in which it is
+			# collision_list.append(dict(zip(["LATITUDE", "LONGITUDE", "FACTOR"], [lon, lat, collision["VEHICLE 1 FACTOR"]])))
 
 # In this part, the collisions will be processed end up with the "heatmap" dict
-for collision in collision_list:
-	lon = round((collision["LONGITUDE"] // resolution) * resolution, 3)
-	lat = round((collision["LATITUDE"] // resolution) * resolution, 3)
-	key = str(lon) + ", " + str(lat)
-	if key not in heatmap:
-		heatmap.append
-	else:
-		heatmap[key]["total"] += 1
-		for reasons in [bad_driving.keys(), driver_condition.keys(), road_condition.keys(), car_failure.keys(), bad_luck.keys()]:
-			if collision["FACTOR"] in reasons:
-				# reasons[]
-				print("it works")
-		# heatmap[key][]
+# for collision in collision_list:
+# 	key = str(lon) + ", " + str(lat)
+# 	# Populating the heatmap with the collisions and counting the number of corresponding event
+# 	# If the key doesn't exist, it is added to the dict, with a value being a collision_prob dict with 0s for all the values
+# 	if not key in str(heatmap.keys()):
+# 		print(key + " is not in the heatmap")
+# 		# Reinitializing the dicts
+# 		collision_prob["total"] = 1
+# 		for key in bad_driving:
+# 			bad_driving[key] = 0
+# 		for key in driver_impaired:
+# 			driver_impaired[key] = 0
+# 		for key in road_condition:
+# 			road_condition[key] = 0
+# 		for key in car_failure:
+# 			car_failure[key] = 0
+# 		for key in bad_luck:
+# 			bad_luck[key] = 0
+# 		heatmap[key] = collision_prob.copy()
+# 		#fix this
+# 	# If the key already exists, we increment the total number of collisions in the "box" corresponding to the key, and we look for the specific reason of the collision in the dicts of collisions reasons to increment its specific counter as well as the counter of collisions in the bigger group of reasons
+# 	else:
+# 		print(key + " is already in the heatmap")
+# 		heatmap[key]["total"] += 1
+# 		for reasons in [bad_driving.keys(), driver_impaired.keys(), road_condition.keys(), car_failure.keys(), bad_luck.keys()]:
+# 			print(str(reasons))
+# 			if collision["FACTOR"] in reasons:
+# 				# reasons[]
+# 				print("it works")
+# 		# heatmap[key][]
